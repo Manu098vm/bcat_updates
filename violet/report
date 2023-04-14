@@ -1,6 +1,5 @@
-[Violet] Added: 00/files/32
-[Violet] Added: 00/files/33
-[Violet] Added: 00/files/34
-[Violet] Modified: 00/files.meta
-[Violet] Modified: stadium/files/text
-[Violet] Modified: stadium/files.meta
+[Violet] Modified: raid/files/fixed_reward_item_array
+[Violet] Modified: raid/files/lottery_reward_item_array
+[Violet] Modified: raid/files/raid_enemy_array
+[Violet] Modified: raid/files/raid_priority_array
+[Violet] Modified: raid/files.meta
