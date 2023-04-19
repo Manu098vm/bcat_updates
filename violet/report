@@ -1,2 +1,5 @@
-[Violet] Removed: 05/files/03
-[Violet] Modified: 05/files.meta
+[Violet] Added: raid/files/fixed_reward_item_array_1_3_0
+[Violet] Added: raid/files/lottery_reward_item_array_1_3_0
+[Violet] Added: raid/files/raid_enemy_array_1_3_0
+[Violet] Added: raid/files/raid_priority_array_1_3_0
+[Violet] Modified: raid/files.meta
